@@ -1,6 +1,6 @@
 <img src="sleep.jpeg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Galang, i'mam Fullstack javascript from indonesia 👋🏼:
+# Hello World!, I'm Galang, i'am Fullstack javascript from indonesia 👋🏼:
 
 🛜 currently working on my own [webpage](https://tobiasmeyhoefer.com)<br>👨🏼‍💻 working as a fullstack developer since 2025 in [office](https://designcornerjkt.com)
 
